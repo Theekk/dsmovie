@@ -1,5 +1,9 @@
+import Navbar from './components/Navbar/index'
+
 function App() {
-  return <h1>Pagina UNO</h1>;
+  return (
+    <Navbar />
+    )
 }
 
 export default App;
